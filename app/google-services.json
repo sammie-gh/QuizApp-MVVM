@@ -1,0 +1,277 @@
+{
+  "project_info": {
+    "project_number": "504459436291",
+    "firebase_url": "https://cleanermechanicfinder.firebaseio.com",
+    "project_id": "cleanermechanicfinder",
+    "storage_bucket": "cleanermechanicfinder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504459436291:android:93e367995154098c",
+        "android_client_info": {
+          "package_name": "com.example.dayday.CmClientapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504459436291-js0p730io782j5o8i128vgc2bgc8gjgv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dayday.CmClientapp",
+            "certificate_hash": "503efb4d92b8ce0cf8ab7577542dc2b288e5cd85"
+          }
+        },
+        {
+          "client_id": "504459436291-e0rlh7ns6eparg6nfnl5nojjt51snmhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYe6kBrak8bfwF4ctcONERgrNWt9OJ_98"
+        },
+        {
+          "current_key": "AIzaSyCWRu8VnETvn_fnYSU3MmLxINtwdSwPr9o"
+        },
+        {
+          "current_key": "AIzaSyBEtaSNqCVjLzdS7-K4QF-lQuQHCSzSulM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504459436291-e0rlh7ns6eparg6nfnl5nojjt51snmhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504459436291:android:8f25250fb9a756d1",
+        "android_client_info": {
+          "package_name": "com.example.dayday.cleanermechanicfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504459436291-1avt0hrdtr72jn6d0580r3v3cdjpi4h2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dayday.cleanermechanicfinder",
+            "certificate_hash": "cb74470bf8cc413398fd7cee81a14318a38bbd57"
+          }
+        },
+        {
+          "client_id": "504459436291-e7finq8gqal26km75fvkci50om1l3gst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dayday.cleanermechanicfinder",
+            "certificate_hash": "503efb4d92b8ce0cf8ab7577542dc2b288e5cd85"
+          }
+        },
+        {
+          "client_id": "504459436291-e0rlh7ns6eparg6nfnl5nojjt51snmhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYe6kBrak8bfwF4ctcONERgrNWt9OJ_98"
+        },
+        {
+          "current_key": "AIzaSyCWRu8VnETvn_fnYSU3MmLxINtwdSwPr9o"
+        },
+        {
+          "current_key": "AIzaSyBEtaSNqCVjLzdS7-K4QF-lQuQHCSzSulM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504459436291-e0rlh7ns6eparg6nfnl5nojjt51snmhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504459436291:android:6b74072c32af5633a3c936",
+        "android_client_info": {
+          "package_name": "com.gh.sammie.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504459436291-nqq48fi9svtv48c6lghji8mcniafotjc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gh.sammie.quizapp",
+            "certificate_hash": "4a583b2cfad76b0afefb845ec303892c9f52a747"
+          }
+        },
+        {
+          "client_id": "504459436291-e0rlh7ns6eparg6nfnl5nojjt51snmhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYe6kBrak8bfwF4ctcONERgrNWt9OJ_98"
+        },
+        {
+          "current_key": "AIzaSyCWRu8VnETvn_fnYSU3MmLxINtwdSwPr9o"
+        },
+        {
+          "current_key": "AIzaSyBEtaSNqCVjLzdS7-K4QF-lQuQHCSzSulM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504459436291-e0rlh7ns6eparg6nfnl5nojjt51snmhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504459436291:android:a6be8b317c86b76e",
+        "android_client_info": {
+          "package_name": "com.sunburn.dayday.BloodKin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504459436291-1h4h0c4jddrn7jno7kttae58b0lfommb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunburn.dayday.BloodKin",
+            "certificate_hash": "d9b42785f5db4fea7bbd8b15674d349d892deaa5"
+          }
+        },
+        {
+          "client_id": "504459436291-e0rlh7ns6eparg6nfnl5nojjt51snmhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYe6kBrak8bfwF4ctcONERgrNWt9OJ_98"
+        },
+        {
+          "current_key": "AIzaSyCWRu8VnETvn_fnYSU3MmLxINtwdSwPr9o"
+        },
+        {
+          "current_key": "AIzaSyBEtaSNqCVjLzdS7-K4QF-lQuQHCSzSulM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504459436291-e0rlh7ns6eparg6nfnl5nojjt51snmhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504459436291:android:e5c436a88e8eb106",
+        "android_client_info": {
+          "package_name": "com.sunburn.dayday.Dimm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504459436291-cq4832vt11hu7begm8112u6uk76f0cmq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunburn.dayday.Dimm",
+            "certificate_hash": "cb74470bf8cc413398fd7cee81a14318a38bbd57"
+          }
+        },
+        {
+          "client_id": "504459436291-e0rlh7ns6eparg6nfnl5nojjt51snmhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYe6kBrak8bfwF4ctcONERgrNWt9OJ_98"
+        },
+        {
+          "current_key": "AIzaSyCWRu8VnETvn_fnYSU3MmLxINtwdSwPr9o"
+        },
+        {
+          "current_key": "AIzaSyBEtaSNqCVjLzdS7-K4QF-lQuQHCSzSulM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504459436291-e0rlh7ns6eparg6nfnl5nojjt51snmhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504459436291:android:ad1c62cbbcdc3b7d",
+        "android_client_info": {
+          "package_name": "com.sunburn.dayday.DimmPatner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504459436291-71ca29tq4csbo7upr07gto93gjff3f4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunburn.dayday.DimmPatner",
+            "certificate_hash": "cb74470bf8cc413398fd7cee81a14318a38bbd57"
+          }
+        },
+        {
+          "client_id": "504459436291-e0rlh7ns6eparg6nfnl5nojjt51snmhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYe6kBrak8bfwF4ctcONERgrNWt9OJ_98"
+        },
+        {
+          "current_key": "AIzaSyCWRu8VnETvn_fnYSU3MmLxINtwdSwPr9o"
+        },
+        {
+          "current_key": "AIzaSyBEtaSNqCVjLzdS7-K4QF-lQuQHCSzSulM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504459436291-e0rlh7ns6eparg6nfnl5nojjt51snmhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
